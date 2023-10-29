@@ -129,6 +129,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 
 #banner::before {
+    content: "";
     background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
     background-size:cover;
     opacity: 0.5;
