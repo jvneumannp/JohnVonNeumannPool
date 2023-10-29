@@ -124,9 +124,14 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
+    background-size:cover;
+}
+
+
+#banner::before {
     background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
     background-size:cover;
-    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0.5;
 }
 
 
