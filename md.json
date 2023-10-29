@@ -1,0 +1,7 @@
+{
+  "name": "John Von Neumann Pool",
+  "description": "This pool is dedicated to John Von Neumann.",
+  "ticker": "JVNP",
+  "homepage": "https://www.stakepool247.eu",
+  "extended": "https://www.stakepool247.eu/xpool-testnet.extended.json"
+}
